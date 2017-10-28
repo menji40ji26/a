@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 37117fbfe59f90c48b690c75ed98b741
+timeCreated: 1503707440
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chariot_0
+    21300002: Chariot_1
+    21300004: Chariot_2
+    21300006: Chariot_3
+    21300008: Chariot_4
+    21300010: Chariot_5
+    21300012: Chariot_6
+    21300014: Chariot_7
+    21300016: Chariot_8
+    21300018: Chariot_9
+    21300020: Chariot_10
+    21300022: Chariot_11
+    21300024: Chariot_12
+    21300026: Chariot_13
+    21300028: Chariot_14
+    21300030: Chariot_15
+    21300032: Chariot_16
+    21300034: Chariot_17
+    21300036: Chariot_18
+    21300038: Chariot_19
+    21300040: Chariot_20
+    21300042: Chariot_21
+    21300044: Chariot_22
+    21300046: Chariot_23
+    21300048: Chariot_24
+    21300050: Chariot_25
+    21300052: Chariot_26
+    21300054: Chariot_27
+    21300056: Chariot_28
+    21300058: Chariot_29
+    21300060: Chariot_30
+    21300062: Chariot_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chariot_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 956
+        width: 236
+        height: 807
+      alignment: 9
+      pivot: {x: 0.50710505, y: 0.5769808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 975
+        width: 266
+        height: 785
+      alignment: 9
+      pivot: {x: 0.5121434, y: 0.60205305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1635
+        width: 603
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 788
+        width: 211
+        height: 152
+      alignment: 9
+      pivot: {x: 0.48273456, y: 0.39214858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_4
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 799
+        width: 846
+        height: 834
+      alignment: 9
+      pivot: {x: 0.5108097, y: 0.29172492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_5
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1101
+        width: 108
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_6
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1303
+        width: 492
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 784
+        width: 114
+        height: 145
+      alignment: 9
+      pivot: {x: 0.47199243, y: 0.22475417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 773
+        width: 103
+        height: 156
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.26462966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 706
+        width: 122
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 538
+        width: 170
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41384143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 458
+        width: 180
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5176539, y: 0.8716634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 491
+        width: 91
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 284
+        width: 181
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 38
+        width: 189
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5056044, y: 0.7206748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 9
+        width: 93
+        height: 215
+      alignment: 9
+      pivot: {x: 0.45444086, y: 0.8892092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 244
+        width: 176
+        height: 184
+      alignment: 9
+      pivot: {x: 0.51203674, y: 0.60362095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 141
+        width: 898
+        height: 639
+      alignment: 9
+      pivot: {x: 0.4770633, y: 0.58380777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_18
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 505
+        width: 859
+        height: 993
+      alignment: 9
+      pivot: {x: 0.49598005, y: 0.31350926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_19
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1507
+        width: 726
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4959515, y: 0.63181347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_20
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1095
+        width: 314
+        height: 530
+      alignment: 9
+      pivot: {x: 0.6029745, y: 0.49445385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_21
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 857
+        width: 250
+        height: 159
+      alignment: 9
+      pivot: {x: 0.52351564, y: 0.46302575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_22
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 1384
+        width: 297
+        height: 188
+      alignment: 9
+      pivot: {x: 0.83609205, y: 0.7082169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_23
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 1132
+        width: 297
+        height: 225
+      alignment: 9
+      pivot: {x: 0.82291174, y: 0.4304096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_24
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 1363
+        width: 90
+        height: 323
+      alignment: 9
+      pivot: {x: 0.48965928, y: 0.69775164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_25
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 1026
+        width: 63
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15307046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_26
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 862
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_27
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 463
+        width: 503
+        height: 599
+      alignment: 9
+      pivot: {x: 0.5077824, y: 0.5980252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_28
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 787
+        width: 303
+        height: 267
+      alignment: 9
+      pivot: {x: 0.48735866, y: 0.51912826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_29
+      rect:
+        serializedVersion: 2
+        x: 4786
+        y: 369
+        width: 117
+        height: 444
+      alignment: 9
+      pivot: {x: 0.4577616, y: 0.51484114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_30
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 1380
+        width: 286
+        height: 190
+      alignment: 9
+      pivot: {x: 0.13495855, y: 0.6936054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chariot_31
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 1143
+        width: 293
+        height: 222
+      alignment: 9
+      pivot: {x: 0.17348355, y: 0.3890744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
